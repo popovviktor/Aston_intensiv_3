@@ -9,4 +9,6 @@
     <string name="Denmark">Denmark</string>
     <string name="switzerland">Switzerland</string>
     <string name="countries">Countries</string>
+    <string name="url">url</string>
+    <string name="load_images">load images</string>
 </resources>
