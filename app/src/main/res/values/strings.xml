@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AstonThree</string>
+    <string name="Austria">Austria</string>
+    <string name="Poland">Poland</string>
+    <string name="Italy">Italy</string>
+    <string name="Columbia">Columbia</string>
+    <string name="Madagascar">Madagascar</string>
+    <string name="Thailand">Thailand</string>
+    <string name="Denmark">Denmark</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="countries">Countries</string>
+    <string name="url">url</string>
+    <string name="load_images">load images</string>
+    <string name="default_url">https://i.imgur.com/DvpvklR.png</string>
+    <string name="Toast_text_Error">Error image loading</string>
+    <string name="withourlibraries">WithourLibraries</string>
+    <string name="picasso">Picasso</string>
+</resources>
